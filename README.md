@@ -11,7 +11,7 @@
  
  <br>
  <br>
-![Snippet1](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet1.jpeg)
+![Snippet1](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet1.JPG)
 ![Snippet2](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet2.jpeg)
 ![Snippet3](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet3.jpeg)
 
