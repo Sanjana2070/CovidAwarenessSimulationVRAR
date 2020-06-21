@@ -11,9 +11,9 @@
  
  <br>
  <br>
-![Snippet1](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet1.JPG)
-![Snippet2](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet2.JPG)
-![Snippet3](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet3.JPG)
+![Snippet1](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet1.jpeg)
+![Snippet2](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet2.jpeg)
+![Snippet3](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet3.jpeg)
 
 <br>
 <br>
@@ -30,6 +30,6 @@ In the first part, there is a face mask which shows where you should not touch y
 
 In the second part, there is a distance measurement app, where one can apply the social distancing measures. <br>
 
-![Snippet4](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet4.png)
-![Snippet5](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet5.png)
+![Snippet4](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet4.jpeg)
+![Snippet5](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet5.jpeg)
 ![Snippet6](https://github.com/Sanjana2070/CovidAwarenessSimulationVRAR/blob/master/Images/Snippet6.jpeg)
